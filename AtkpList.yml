@@ -2,7 +2,7 @@
   Id: 151   
   Type: 1
   CriticalAdjust: 0
-  Power: 120
+  Power: 175
   Team: 0
   Element: 0
   EnemyReaction: 10
@@ -35,7 +35,7 @@
   Id: 152 
   Type: 4
   CriticalAdjust: 0
-  Power: 100
+  Power: 300
   Team: 0
   Element: 0
   EnemyReaction: 11
@@ -68,7 +68,7 @@
   Id: 153 
   Type: 1
   CriticalAdjust: 1
-  Power: 100
+  Power: 200
   Team: 0
   Element: 0
   EnemyReaction: 11
@@ -101,7 +101,7 @@
   Id: 154 
   Type: 1
   CriticalAdjust: 0
-  Power: 100
+  Power: 175
   Team: 0
   Element: 0
   EnemyReaction: 11
@@ -134,7 +134,7 @@
   Id: 155 
   Type: 1
   CriticalAdjust: 0
-  Power: 100
+  Power: 175
   Team: 0
   Element: 0
   EnemyReaction: 11
@@ -167,7 +167,7 @@
   Id: 1164 
   Type: 4
   CriticalAdjust: 0
-  Power: 100
+  Power: 300
   Team: 0
   Element: 0
   EnemyReaction: 11
@@ -200,7 +200,7 @@
   Id: 1163
   Type: 4
   CriticalAdjust: 1
-  Power: 65
+  Power: 300
   Team: 0
   Element: 5
   EnemyReaction: 10
@@ -233,7 +233,7 @@
   Id: 1525 
   Type: 4
   CriticalAdjust: 0
-  Power: 100
+  Power: 300
   Team: 0
   Element: 0
   EnemyReaction: 11
